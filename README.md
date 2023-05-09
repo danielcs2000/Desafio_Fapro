@@ -16,7 +16,7 @@ pip install -r requirements.txt
 make run
 ```
 
-Go to http://127.0.0.1:8000
+Go to the [API Swagger](http://127.0.0.1:8000/docs) to try the endpoint
 
 ## Run tests
 
@@ -34,3 +34,8 @@ make test
 - La fecha mínima que se puede consultar es el 01-01-2013, y no hay fecha máxima, ya que la tabla se actualiza constantemente.
 - La API debe devolver el valor de la Unidad de Fomento correspondiente a la fecha consultada.
 - La respuesta de la API debe estar en formato JSON.
+
+## Screenshot
+
+![image](https://github.com/danielcs2000/Desafio_Fapro/assets/34191864/cd7c7f17-9cca-44f5-b3e1-7c79e8386969)
+

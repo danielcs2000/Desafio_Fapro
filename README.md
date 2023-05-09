@@ -42,9 +42,7 @@ make test
 - La respuesta de la API debe estar en formato JSON.
 
 ## Screenshot
-
-![image](https://github.com/danielcs2000/Desafio_Fapro/assets/34191864/f971916c-465b-4362-8465-335642c76b69)
-
+![image](https://github.com/danielcs2000/Desafio_Fapro/assets/34191864/5c6b8bd7-deb6-44d8-9f2a-f21ac99e840d)
 
 ![image](https://github.com/danielcs2000/Desafio_Fapro/assets/34191864/cd7c7f17-9cca-44f5-b3e1-7c79e8386969)
 

@@ -1,9 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import logging
 from typing import Optional, List
-
-logger = logging.getLogger(__name__)
 
 
 def fetch_uf_by_year(year: int) -> Optional[List[List[str]]]:

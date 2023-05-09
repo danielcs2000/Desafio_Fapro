@@ -16,11 +16,14 @@ pip install -r requirements.txt
 make run
 ```
 
+Go to http://127.0.0.1:8000
+
 ## Run tests
 
 ``` bash
 make test
 ```
+
 
 ## App description:
 
